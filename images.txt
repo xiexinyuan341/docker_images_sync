@@ -1,2 +1,1 @@
-python:3.11-slim-bookworm
-nginx:stable-alpine
+mysql:latest
