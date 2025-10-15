@@ -1,1 +1,1 @@
-mysql:latest
+samanhappy/mcphub:0.9.12
