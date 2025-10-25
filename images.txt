@@ -1,1 +1,1 @@
-redis:7-alpine
+python:3.11-slim
