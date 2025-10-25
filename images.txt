@@ -1,1 +1,1 @@
-mindsdb/mindsdb:latest
+redis:7-alpine
