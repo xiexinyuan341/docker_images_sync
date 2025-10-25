@@ -1,1 +1,1 @@
-samanhappy/mcphub:0.9.12
+mindsdb/mindsdb:latest
