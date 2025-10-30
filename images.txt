@@ -1,1 +1,1 @@
-python:3.11-slim
+langchain/langgraph-api:3.12
